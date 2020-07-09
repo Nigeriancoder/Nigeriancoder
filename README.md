@@ -1,8 +1,12 @@
 **Hi there** 👋
 
 **Nigeriancoder/Nigeriancoder**
-
-Here are some ideas to get you started:
+<style>
+.head{
+  color: red;
+ }
+</style>
+<h1 class="head">Here are some ideas to get you started:</h1>
 
 - 🔭 I’m currently working on anything
 - 🌱 I’m currently learning more...
