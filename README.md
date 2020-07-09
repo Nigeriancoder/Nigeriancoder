@@ -1,12 +1,8 @@
 **Hi there** 👋
 
 **Nigeriancoder/Nigeriancoder**
-<style>
-.head{
-  color: red;
- }
-</style>
-<h1 class="head">Here are some ideas to get you started:</h1>
+
+<h1 class="btn btn-primary">Here are some ideas to get you started:</h1>
 
 - 🔭 I’m currently working on anything
 - 🌱 I’m currently learning more...
