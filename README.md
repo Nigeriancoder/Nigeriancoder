@@ -1,7 +1,6 @@
-### Hi there 👋
+**Hi there** 👋
 
-<!--
-**Nigeriancoder/Nigeriancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nigeriancoder/Nigeriancoder**
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about the reason why I HATE JavaScript
 - 📫 How to reach me: @gbemi_l_david
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I LOVE PHP and HATE JavaScript
--->
+- ⚡ Fun fact: I LOVE Python and HATE JavaScript
